@@ -1,4 +1,3 @@
-# add your code here
 def caesar_cipher(text, shift):
     alphabet='abcdefghijklmnopqrstuvwxyz'
     alphabet += alphabet    # may handle up to 21 shift
